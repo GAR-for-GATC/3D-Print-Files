@@ -32,7 +32,7 @@ Runtime: | ~3 Hours
 Results:
 
 All Results are in mm.  Top shows the designed diameter of the pegs.  All other values show the actual measurements.
-Measurements were taken using an iGaging digital caliper with a measurment tolerance of 0.001 inches and a depth measurement tolerance of 0.001 inches and a deviation of 0.0005.
+Measurements were taken using an iGaging digital caliper with a measurment tolerance of 0.001 inches and a depth measurement tolerance of 0.001 inches and a deviation of 0.0005.  The resolution is +/- 0.0127mm for all measurements.
 
 Part | 5.0|5.1|5.2|5.3|5.4|5.5|5.6|5.7|5.8|5.9|             
 -----|----|---|---|---|---|---|---|---|---|---|
