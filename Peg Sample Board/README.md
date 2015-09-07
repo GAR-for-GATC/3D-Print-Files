@@ -8,7 +8,7 @@ were used to make the IC holder tower.
 ------------------------------------------------------------------------------------------------------------------
 Date:2/9/14
 
-<font size="4">Abstract:</font>
+<font size="5">Abstract:</font>
 
 The purpose of this experiment is to measure the width and depth of square and circular pegs and holes made by a "FlashForge"
 3D printer.  The material used was Makerbot White ABS plastic.  The designs were made in Inventor and were increased by 1000
