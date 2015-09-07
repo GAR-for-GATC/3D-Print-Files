@@ -8,8 +8,8 @@ Completed Picture:
 
 IC protoboards being wired up:
 
-<img src="https://raw.githubusercontent.com/GAR-for-GATC/3D-Print-Files/master/IC%20Holder%20Tower/Pictures/IC's%20Assembled.jpg" width="300">
+<img src="https://raw.githubusercontent.com/GAR-for-GATC/3D-Print-Files/master/IC%20Holder%20Tower/Pictures/IC's%20Assembled.jpg" width="500">
 
 Board separators finished printing:
 
-<img src="https://raw.githubusercontent.com/GAR-for-GATC/3D-Print-Files/master/IC%20Holder%20Tower/Pictures/Seperators%20being%20printed.jpg" width="300">
+<img src="https://raw.githubusercontent.com/GAR-for-GATC/3D-Print-Files/master/IC%20Holder%20Tower/Pictures/Seperators%20being%20printed.jpg" width="500">
