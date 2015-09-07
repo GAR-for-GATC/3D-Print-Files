@@ -14,7 +14,7 @@ The purpose of this experiment is to measure the width and depth of square and c
 in the makerbot desktop application before being sent to the printer itself.  The pegs and holes had a diameter of 5.0mm and 
 varied by .1mm to a diameter of 5.9mm.  More details are shown below:
 
-header 1| header 2             
+Atribute | Value             
 ------------------------|--------
 Infill: | 15%
 Number of shells: | 3
