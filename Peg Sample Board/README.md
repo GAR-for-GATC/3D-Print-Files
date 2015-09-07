@@ -13,8 +13,8 @@ The purpose of this experiment is to measure the width and depth of square and c
 3D printer.  The material used was Makerbot White ABS plastic.  The designs were made in Inventor and were increased by 1000
 in the makerbot desktop application before being sent to the printer itself.  The pegs and holes had a diameter of 5.0mm and 
 varied by .1mm to a diameter of 5.9mm.  More details are shown below:
-                          |
-|:------------------------|:--------
+                        |
+------------------------|--------
 Infill: | 15%
 Number of shells: | 3
 Layer Height: | 0.2mm
