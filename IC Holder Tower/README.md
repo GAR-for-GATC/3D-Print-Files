@@ -1,6 +1,6 @@
 <font size="6">IC Holding Tower</font>
 ------------------------------------------------------------------------------------------------------------------
-This tower holds custom IC curcuit protoboards.  The .ipt files were made in AutoDesk Inventor and were printed using a Makerbot Flash Forage Dual Extrusion machine. 
+This tower holds custom IC curcuit protoboards to store them for later.  The .ipt files were made in AutoDesk Inventor and were printed using a Makerbot Flash Forage Dual Extrusion machine. 
 
 Completed Picture:
 
