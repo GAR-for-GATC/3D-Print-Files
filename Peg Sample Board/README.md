@@ -8,7 +8,8 @@ were used to make the IC holder tower.
 ------------------------------------------------------------------------------------------------------------------
 Date:2/9/14
 
-Abstract:
+<font size="2">Abstract:</font>
+
 The purpose of this experiment is to measure the width and depth of square and circular pegs and holes made by a "FlashForge"
 3D printer.  The material used was Makerbot White ABS plastic.  The designs were made in Inventor and were increased by 1000
 in the makerbot desktop application before being sent to the printer itself.  The pegs and holes had a diameter of 5.0mm and 
@@ -29,7 +30,7 @@ Runtime: | ~3 Hours
 
 
 
-Results:
+<font size="2">Results:</font>
 
 All Results are in mm.  Top shows the designed diameter of the pegs.  All other values show the actual measurements.
 Measurements were taken using an iGaging digital caliper with a measurment tolerance of +/- 0.0127mm.
@@ -45,7 +46,7 @@ Square Hole Depth|3.43|3.42|3.52|3.44|3.45|3.49|3.48|3.43|3.47|3.52|
 Square Hole Diameter|4.67|4.75|4.99|5.08|5.14|5.30|5.40|5.51|5.48|5.68|
 Square Hole length|4.63|4.72|4.88|4.92|5.08|5.15|5.33|5.42|5.47|5.62|
 
-Conclusion:
+<font size="2">Conclusion:</font>
 
 Circular pegs were more accurate than square pegs.  Square peg corners were tapered outward and decreased accuracy.  Circular holes are anywhere from 0.3-0.5mm smaller than designed.  Hole depth is anywhere from 0-0.13mm shallower than designed.
 
